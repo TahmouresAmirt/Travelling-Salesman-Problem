@@ -1,0 +1,14 @@
+Travelling Salesman problem(TSP) solution via Genetic Algorithm(GA).
+In order to run the algorithm with the default settings, please 
+Run the main file. 
+
+TSP is an optimization problem, so GA could be a selection.
+For more information regarding the problem please follow the link below:
+
+https://en.wikipedia.org/wiki/Travelling_salesman_problem
+  
+
+If you have any questions please contact to:
+
+Amirhossein Tahmouresi
+ce.tahmoursi@gmail.com
